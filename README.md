@@ -7,13 +7,13 @@ Sim, muitas
 * [x] Pq eu vou usar o NodeJS?
 Porque com ele conseguimos criar um servidor e acessar de forma mais simples
 
-# O que aprendemos aqui?
+# O que aprendemos aqui
 * [x] NodeJS
 * [x] Criar um servidor com uma rota
 * [x] Usar um template engine
 * [x] Usar callbacks
 
-# Sequencia de passos?
+# Sequencia de passos
 * [x] Iniciar o projeto com NPM
 * [x] Instalar dependencias`express ejs html-pdf`
 * [x] Iniciar o servidor
